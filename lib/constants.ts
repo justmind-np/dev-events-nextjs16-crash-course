@@ -1,0 +1,50 @@
+export const events = [
+    {
+        title: "React Conf 2026",
+        image: "/images/event1.png",
+        slug: "react-conf-2026",
+        location: "Henderson, Nevada",
+        date: "2026-05-15",
+        time: "09:00 AM",
+    },
+    {
+        title: "Next.js Conf 2026",
+        image: "/images/event2.png",
+        slug: "nextjs-conf-2026",
+        location: "San Francisco, CA",
+        date: "2026-10-25",
+        time: "10:00 AM",
+    },
+    {
+        title: "Web Summit 2026",
+        image: "/images/event3.png",
+        slug: "web-summit-2026",
+        location: "Lisbon, Portugal",
+        date: "2026-11-11",
+        time: "09:00 AM",
+    },
+    {
+        title: "JSWorld Conference",
+        image: "/images/event4.png",
+        slug: "jsworld-conference",
+        location: "Amsterdam, Netherlands",
+        date: "2026-02-12",
+        time: "08:30 AM",
+    },
+    {
+        title: "EthGlobal London 2026",
+        image: "/images/event5.png",
+        slug: "ethglobal-london-2026",
+        location: "London, UK",
+        date: "2026-03-14",
+        time: "09:00 AM",
+    },
+    {
+        title: "Google I/O 2026",
+        image: "/images/event6.png",
+        slug: "google-io-2026",
+        location: "Mountain View, CA",
+        date: "2026-05-20",
+        time: "10:00 AM",
+    }
+];
